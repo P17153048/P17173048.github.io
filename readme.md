@@ -1,6 +1,6 @@
 # CTEC3905 Assignment
 
-This is very basic boilerplate code for you to get started with.
+This is a publicly available version of PetCare
 
 ## index.html
 
@@ -16,7 +16,7 @@ The `index.html` file includes a basic template with a link to the `css/styles.c
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-  
+
   <h1>Hello World</h1>
 
   <script src="js/scripts.js"></script>
@@ -36,7 +36,7 @@ The `css/styles.css` file contains a basic starting template for a responsive pa
 
 body {
   background: #fcc;
-} 
+}
 
 
 
@@ -45,10 +45,10 @@ body {
 @media screen and (min-width: 500px) {
 
   /* applies to screens wider than 499px */
-  
+
   body {
     background: #cfc;
-  } 
+  }
 }
 
 
@@ -61,7 +61,7 @@ body {
 
   body {
     background: #ccf;
-  } 
+  }
 }
 
 ```
